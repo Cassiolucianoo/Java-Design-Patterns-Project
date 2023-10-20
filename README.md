@@ -16,7 +16,7 @@ Uso adequado dos verbos HTTP (GET, POST, PUT, DELETE) para operações CRUD.
 Nomes de recursos significativos na URL, como /users para recursos de usuários.
 Respostas HTTP apropriadas com códigos de status e representações de recursos em JSON.
 
-##Injeção de Dependência
+## Injeção de Dependência
 O projeto utiliza o padrão de Injeção de Dependência, com a ajuda do Spring Framework. Isso permite que as dependências, como o UserService e o UserFactory, sejam injetadas nos controladores, promovendo o desacoplamento e facilitando a manutenção e testabilidade do código.
 
 
